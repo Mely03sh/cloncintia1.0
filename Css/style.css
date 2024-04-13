@@ -1,7 +1,7 @@
 @media (max-width: 768px) {
-    #dos .col-md-2,
-    #dos .col-md-7,
-    #dos .col-md-2.mt-3.mr-1 {
+    #dos .col-2,
+    #dos .col-7,
+    #dos .col-2.mt-3.mr-1 {
         flex: 0 0 100%;
         max-width: 100%;
         text-align: center;
@@ -12,6 +12,7 @@
         text-align: center;
     }
 }
+
 
 
 

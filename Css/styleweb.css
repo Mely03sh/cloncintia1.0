@@ -1,3 +1,19 @@
+@media (max-width: 768px) {
+    #dos .col-2,
+    #dos .col-7,
+    #dos .col-2.mt-3.mr-1 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .nav-item {
+        text-align: center;
+    }
+}
+
+
 #uno{
     border: 1px solid black;
     background-color: rgb(244, 103, 9);
